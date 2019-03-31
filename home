@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【公式】田中歯科医院</title>
+    <link rel="stylesheet" href="HP.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <img class="header-logo" src="file:///C:/Users/RIHO/Desktop/Web/HP/1959.png" alt="">
+        <div class="header-list">
+          <a class="tel" href="#">TEL:099-262-3261</a>
+          <a class="reserve" href="#"><img src="file:///C:/Users/RIHO/Desktop/Web/HP/-.jpg" alt=""></a>
+          <div class="clear"></div>
+        </div>
+
+      </div>
+    </header>
+
+    <main>
+       <div class="container">
+         <ul class="menu">
+           <li><a href="#">ホーム</a></li>
+           <li><a href="#">診療内容</a></li>
+           <li><a href="#">院長挨拶</a></li>
+           <li><a href="#">院内紹介</a></li>
+           <li><a href="#">治療設備</a></li>
+           <li><a href="#">自費メニュー</a></li>
+           <li><a href="#">予約</a></li>
+         </ul>
+       </div>
+       <span class="fa fa-bars menu-icon"></span>
+       <div class="main-wrapper">
+         <div class="container">
+           <img class="top" src="file:///C:/Users/RIHO/Desktop/Web/HP/1959a.jpg" alt="">
+           <div class="imformation">
+             <h3>鹿児島市坂之上　田中歯科医院のご案内</h3>
+             <p>開業してもうすぐ30年になります。様々な経験を積みました。その経験をもとに、患者様にはより安心して治療を受けていただけると思っています。経験基盤もしっかりしているので、無理な治療は勧めません。治療内容も費用もより安心して下さい。きっとお役に立てると思っています。</p>
+             <h4>連絡先</h4>
+             <p>TEL：099-262-3261 　FAX：099-262-6026</p>
+             <p>予約制：急患の方は、まずお電話でお問い合わせください。</p>
+             <p>住所：〒891-0150 鹿児島県鹿児島市坂之上7丁目11-10</p>
+
+             <h4>診療時間</h4>
+             <p>午前9：00～12：30</p>
+             <p>午後14：00～18：30</p>
+
+             <h4>休診　木曜午後・日曜・祝日</h4>
+             <p>△…第２,４土曜日の午後は往診です。</p>
+             <p>第１,３,５土曜日の午後は前々日までの完全予約制です。</p>
+
+             <h3>休診日のお知らせ</h3>
+             <p>第２、第４土曜日の午後は往診のため休診です。</p>
+             <p>大型連休は４月２８、２９日、５月２～６日が休診です。 <br>
+               ４月３０日、５月１日は診療予定です。</p>
+            </div>
+
+           <div class="imformation">
+             <h3>交通のご案内</h3>
+             <h4>JRでお越しの場合</h4>
+             <p>指宿枕崎線坂之上駅　出口車5分</p>
+
+             <h4>バスでお越しの場合</h4>
+             <p>坂之上団地停留所　徒歩２分</p>
+
+             <h4>お車でお越しの場合</h4>
+             <p>駐車場7台完備、国道225号線上村石油近く</p>
+             <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13608.998025370403!2d130.502681!3d31.489825!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x24069a9d44f94259!2z55Sw5Lit5q2v56eR5Yy76Zmi!5e0!3m2!1sja!2sjp!4v1551707732254" width="450" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+           </div>
+          </div>
+        </div>
+       </main>
+
+
+
+    <footer>
+      <div class="container">
+        <p>田中歯科医院<br>〒891-0150 鹿児島県鹿児島市坂之上7丁目11-10　TEL:099-262-3261</p>
+      </div>
+    </footer>
+  </body>
+</html>
